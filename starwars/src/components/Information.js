@@ -1,9 +1,10 @@
 import React from "react";
+import './style.css'
 
 const Information = props => {
     return (
-        <div>
-            <h1>Name: {props.characters.name}</h1>
+        <div class="div">
+            <h1 class="h1">Name: {props.characters.name}</h1>
             <p>Height: {props.characters.height}</p>
             <p>Mass: {props.characters.mass}</p>
             <p>Hair Color: {props.characters.hair_color}</p>
