@@ -26,11 +26,19 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+React JS is a JavaScript library used for making user interfaces. It helps developers make UIs painlessly and easy to do. React allows you to work with changing data by using reusable components. Components are core to React, they are JavaScript classes/function that can take in props/properties and return a React element, which is a section of the UI.
+
 - [ ] What does it mean to _think_ in react?
+
+Thinking in React is how you approach a project in React. Jumping right in and building an application can be overwhelming. Start by making a mock design of your project, then break the UI into a component Hierarchy. You can use photoshop/paint to draw sections/sub-sections on your mock up. Next you can start building the backbone (functionality) of your project in React. After that you can start styling your work.
 
 - [ ] Describe state.
 
+By default components are stateless. State allows a component to come alive. Essentially state allows components to render information to create or update information.
+
 - [ ] Describe props.
+ 
+Props or Properties is what is passed into components similar to how arguments get passed into functions.
 
 ## Project Set Up
 
