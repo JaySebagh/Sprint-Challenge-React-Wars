@@ -1,0 +1,18 @@
+.div {
+    display: flex;
+    flex-direction: column;
+}
+
+.h1 {
+    color: #ef9b0f;
+    background-color: white;
+    padding: 10px;
+}
+
+p {
+    color: #7101f6;
+    background-color: lightgray;
+    width: 200px;   
+    align-self: center;
+    padding: 10px;
+}
